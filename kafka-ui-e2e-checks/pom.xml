@@ -16,7 +16,7 @@
         <kafka-ui-contract>${project.version}</kafka-ui-contract>
         <testcontainers.version>1.17.6</testcontainers.version>
         <junit.platform.version>1.9.2</junit.platform.version>
-        <selenide.version>6.11.2</selenide.version>
+        <selenide.version>7.0.0</selenide.version>
         <testng.version>7.7.0</testng.version>
         <allure.version>2.20.1</allure.version>
         <aspectj.version>1.9.9.1</aspectj.version>
