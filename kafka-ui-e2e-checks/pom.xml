@@ -17,7 +17,7 @@
         <testcontainers.version>1.17.6</testcontainers.version>
         <httpcomponents.version>5.2.1</httpcomponents.version>
         <selenium.version>4.8.1</selenium.version>
-        <selenide.version>6.12.3</selenide.version>
+        <selenide.version>7.0.0</selenide.version>
         <testng.version>7.7.1</testng.version>
         <allure.version>2.23.0</allure.version>
         <qase.io.version>3.0.5</qase.io.version>
